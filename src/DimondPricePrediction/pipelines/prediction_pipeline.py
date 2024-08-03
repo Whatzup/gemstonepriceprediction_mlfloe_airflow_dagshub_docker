@@ -32,15 +32,8 @@ class PredictPipeline:
     
     
 class CustomData:
-    def __init__(self,
-                 carat:float,
-                 depth:float,
-                 table:float,
-                 x:float,
-                 y:float,
-                 z:float,
-                 cut:str,
-                 color:str,
+    def __init__(self, carat:float, depth:float, table:float,
+                 x:float, y:float, z:float, cut:str, color:str,
                  clarity:str):
         
         self.carat=carat

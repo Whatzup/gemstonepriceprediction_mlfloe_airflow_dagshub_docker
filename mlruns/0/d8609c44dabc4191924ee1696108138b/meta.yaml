@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d8609c44dabc4191924ee1696108138b/artifacts
+end_time: 1722603379521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8609c44dabc4191924ee1696108138b
+run_name: auspicious-wasp-839
+run_uuid: d8609c44dabc4191924ee1696108138b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722603351952
+status: 4
+tags: []
+user_id: itzai
